@@ -139,17 +139,6 @@
 
 ---
 
-## Career Objective
-
-To work as a **Data Analyst / Virtual Assistant** where I can:
-
-- Keep business data **accurate, clean, and organized**
-- Build **clear, easy-to-read reports and dashboards**
-- Support remote teams with **reliable, on-time task tracking**
-- Save clients time through **research and administrative support**
-
----
-
 ## Let's Connect
 
 <p align="center">
