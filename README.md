@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/cn4giet1a/ChatGPT%20Image%20Aug%2027,%202026,%2005_12_45%20AM.png" width="1000"/>
+<img src="https://ik.imagekit.io/cn4giet1a/ChatGPT%20Image%20Aug%2027,%202026,%2006_10_10%20AM.png" width="1000"/>
 
 <h1 align="center">
   Welcome, I'm <span style="color:#5498F1">Kulsoom Mannan</span>
@@ -71,8 +71,6 @@
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </p>
 
-**Excel (formulas, pivot tables, dashboards) · Google Sheets · Google Workspace · Data Cleaning · Data Analysis**
-
 ### Project & Workflow Management
 
 <p align="left">
@@ -104,6 +102,19 @@
 | **Customer Purchase History Analysis** | Data cleaning & reporting                 | Analyzed **1,800 transactions** worth **$3.27M** to identify category and satisfaction trends          |
 | **Online Store Order Tracking**        | E-commerce data analysis                  | Identified a **41.4% combined cancellation and return rate** across 1,200 orders                       |
 | **Regional Product Sales Performance** | Sales reporting & analysis                | Analyzed **$4.38M in sales** across 5 regions, 4 stores, and 6 salespeople                             |
+
+
+---
+
+## Dashboard & Reporting
+
+<p align="center">
+  <img src="https://ik.imagekit.io/cn4giet1a/ChatGPT%20Image%20Aug%2027,%202026,%2006_14_59%20AM.png" width="900"/>
+</p>
+
+<p align="center">
+  <em>Excel dashboard for tracking project status, milestones, risks, and outstanding actions.</em>
+</p>
 
 
 ---
