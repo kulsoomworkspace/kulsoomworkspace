@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/cn4giet1a/ChatGPT%20Image%20Aug%2027,%202026,%2006_10_10%20AM.png" width="1000"/>
+<img src="https://ik.imagekit.io/cn4giet1a/ChatGPT%20Image%20Aug%2027,%202026,%2004_09_10%20PM.png" width="1000"/>
 
 <h1 align="center">
   Welcome, I'm <span style="color:#5498F1">Kulsoom Mannan</span>
