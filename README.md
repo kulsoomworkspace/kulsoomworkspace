@@ -122,8 +122,8 @@
 
 ## Education & Background
 
-- **Bachelor of Computer Science** — University of the People, 2022–2025
-- **A Level — Accounting, Business & Economics** — Edexcel (Pearson Board), 2019–2021
+- **Bachelor of Computer Science** :- University of the People, 2022–2025
+- **A Level Accounting, Business & Economics** :- Edexcel (Pearson Board), 2019–2021
 - **Languages:** English (Native), Urdu, Punjabi, Arabic (Novice)
 
 ---
