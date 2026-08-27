@@ -158,11 +158,11 @@ To work as a **Data Analyst / Virtual Assistant** where I can:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01c659aa42d2ed4979?companyReference=2044488159190146085&mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
+  <a href="https://www.linkedin.com/in/kulsoom-m-387086216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
